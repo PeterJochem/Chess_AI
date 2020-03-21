@@ -9,4 +9,4 @@ This program plays chess by modeling chess as a Markov decision process. Each pi
 
 
 # How to Run My Code
-Clone my repo and run ```javac userInterface.py``` then ```java UserInterface```
+Clone my repo and run ```javac userInterface.java``` then ```java UserInterface```
